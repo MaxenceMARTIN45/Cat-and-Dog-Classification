@@ -1,6 +1,6 @@
 # Cat and Dog Classification
 
-This project aims to create a model for classifying images of cats and dogs using the dataset available on Kaggle. To get started, follow the steps below to download the dataset and set up the environment.
+This project aims to create a model for classifying images of cats and dogs using a dataset available on Kaggle. To get started, follow the steps below to download the dataset and configure the environment.
 
 ## Instructions for downloading the dataset
 
