@@ -1,5 +1,0 @@
-Data Source : Kaggle
-
-Name : Cat and Dog
-URL : https://www.kaggle.com/datasets/tongpython/cat-and-dog
-
